@@ -12,11 +12,14 @@
 
 :books: Aluna da 6ª geração da <Laboratória> Brasil
 
+📧 larissamaranhor@gmail.com
+
 
 
 ## Sobre mim
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= www.linkedin.com/in/larissa-maranho)]( www.linkedin.com/in/larissa-maranho)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/larissamaranho)](https://github.com/larissamaranho)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-maranho/)](https://www.linkedin.com/in/larissa-maranho/)
 
 
 - Obrigada pela visita!
