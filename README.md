@@ -1,7 +1,7 @@
 # Hi there, I'm Larissa
 
 
-I’m currently studying Web Development at Laboratoria woman_technologist
+I’m currently studying Web Development at Laboratoria :woman_technologist:
 
 :house_with_garden: São Paulo / Brasil
 
